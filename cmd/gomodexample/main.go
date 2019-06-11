@@ -21,7 +21,3 @@ func PrintInBlue(msg string) {
 func PrintInCyan(msg string) {
 	color.Cyan(msg)
 }
-
-func main() {
-
-}
