@@ -1,4 +1,4 @@
-package main
+package gomodexample
 
 import "github.com/fatih/color"
 
