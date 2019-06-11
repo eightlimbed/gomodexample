@@ -17,3 +17,11 @@ func PrintInYellow(msg string) {
 func PrintInBlue(msg string) {
 	color.Blue(msg)
 }
+
+func PrintInCyan(msg string) {
+	color.Cyan(msg)
+}
+
+func main() {
+
+}
